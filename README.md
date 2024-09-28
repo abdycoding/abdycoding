@@ -26,7 +26,7 @@ I'm a passionate **Software Development Engineer in Test (SDET)** and a 4th-year
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/your-profile (https://www.linkedin.com/in/abylmyrat-gummanov-543593230/)
+- LinkedIn: https:[//www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abylmyrat-gummanov-543593230/)
 - Email: abdy.coding@gmail.com
 
 ## 🏆 Achievements
